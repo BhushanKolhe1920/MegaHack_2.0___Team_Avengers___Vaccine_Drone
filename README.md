@@ -12,11 +12,6 @@ Team Name : Avengers
 Hackathon Name : MegaHack 2.0   St.John College Of Engineering & Management.
 
 
-Basic idea :
-
-<img src ="https://pin.it/3aapiBz">
-
-
 
 ### Project/Idea Name : Vaccine Drone  -- Optimized Distribuition of Covid Vaccines to Rural Areas using Drones.
 
