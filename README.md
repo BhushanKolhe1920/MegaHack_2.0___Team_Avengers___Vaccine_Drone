@@ -49,7 +49,6 @@ Script summary :
 
 # Output Video :
 
-<img src="https://user-images.githubusercontent.com/66735934/114258822-ea750f00-99e6-11eb-9452-8583e68d29bb.mp4">
 <video width="320" height="240" autoplay muted>
   <source src="https://user-images.githubusercontent.com/66735934/114258822-ea750f00-99e6-11eb-9452-8583e68d29bb.mp4" type="video/mp4">
 </video>
