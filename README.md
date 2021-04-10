@@ -49,9 +49,15 @@ Script summary :
 
 # Output Video :
 
-<video width="320" height="240" autoplay muted>
-  <source src="https://user-images.githubusercontent.com/66735934/114258822-ea750f00-99e6-11eb-9452-8583e68d29bb.mp4" type="video/mp4">
-</video>
+Click on icon : 
+<br>
+
+<img src="https://user-images.githubusercontent.com/66735934/114258822-ea750f00-99e6-11eb-9452-8583e68d29bb.mp4">
+
+OR Copy paste this link in browser
+```
+https://user-images.githubusercontent.com/66735934/114258822-ea750f00-99e6-11eb-9452-8583e68d29bb.mp4" type="video/mp4
+```
 
 
 ## Team members:
