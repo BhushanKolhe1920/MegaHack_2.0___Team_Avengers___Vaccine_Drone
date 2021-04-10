@@ -4,7 +4,7 @@ This repository is created for collection of coding files which our team is goin
 
 # About team & project :
 
-<img src ="">
+<img src ="https://github.com/BhushanKolhe1920/MegaHack_2.0___Team_Avengers___Vaccine_Drone/blob/main/Images%20%26%20presentation%20files/WhatsApp%20Image%202021-04-10%20at%2007.42.04.jpeg">
 
 
 Team Number : 32
