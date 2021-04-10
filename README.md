@@ -52,11 +52,11 @@ Script summary :
 Click on icon : 
 <br>
 
-<img src="https://user-images.githubusercontent.com/66735934/114258822-ea750f00-99e6-11eb-9452-8583e68d29bb.mp4">
+<img src="https://github.com/BhushanKolhe1920/MegaHack_2.0___Team_Avengers___Vaccine_Drone/blob/main/Images%20%26%20presentation%20files/Video_Demo_Vaccine_Drone.mp4">
 
 OR Copy paste this link in browser
 ```
-https://user-images.githubusercontent.com/66735934/114258822-ea750f00-99e6-11eb-9452-8583e68d29bb.mp4" type="video/mp4
+https://github.com/BhushanKolhe1920/MegaHack_2.0___Team_Avengers___Vaccine_Drone/blob/main/Images%20%26%20presentation%20files/Video_Demo_Vaccine_Drone.mp4
 ```
 
 
