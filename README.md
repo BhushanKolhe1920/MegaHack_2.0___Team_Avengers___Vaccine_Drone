@@ -49,14 +49,9 @@ Script summary :
 
 # Output Video :
 
-Click on icon : 
-<br>
-
-<img src="https://drive.google.com/file/d/14ItGnkdaF7u0w1EMKcEFxdUslsu7O21Q/view?usp=sharing">
-
-OR Copy paste this link in browser
 ```
 https://drive.google.com/file/d/14ItGnkdaF7u0w1EMKcEFxdUslsu7O21Q/view?usp=sharing
+
 ```
 
 
