@@ -15,8 +15,11 @@ Hackathon Name : MegaHack 2.0   St.John College Of Engineering & Management.
 
 ### Project/Idea Name : Vaccine Drone  -- Optimized Distribuition of Covid Vaccines to Rural Areas using Drones.
 
+
 Language that we will use : Python3 & HTML5, CSS
 Software we will use : Gazebo simulator, Python IDE.
+
+### Codes are added into Code_Files Folder.
 
 In this MegaHack2.0, we will be going to design codes for drone in python language so that Drone will be able to carry 
 <br> Covid19 Vaccine Package and it will carry that package from one point another point according to GPS location.
@@ -39,9 +42,9 @@ This node publishes and subsribes (when max. of them are used) the following top
                                 <br>
                                 
 Script summary : 
--> angle for edrone is set to -20 to 20 degrees
--> tuning parameteres are changed
--> some code causing extra-overhead is remove
+- angle for edrone is set to -20 to 20 degrees
+- tuning parameteres are changed
+- some code causing extra-overhead is remove
 
 
 
