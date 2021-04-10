@@ -49,7 +49,7 @@ Script summary :
 
 # Output Video :
 
-<img src="https://github.com/BhushanKolhe1920/MegaHack_2.0___Team_Avengers___Vaccine_Drone/blob/main/Images%20%26%20presentation%20files/Final%20Video.mp4">
+![Demo](https://user-images.githubusercontent.com/66735934/114258822-ea750f00-99e6-11eb-9452-8583e68d29bb.mp4)
 
 
 
