@@ -17,6 +17,22 @@ In this MegaHack2.0, we will be going to design codes for drone in python langua
 Covid19 Vaccine doses package                      ------------------->               Rural Areas
 
 
+This python file runs a ROS-node of name attitude_control which controls the roll pitch and yaw angles of the eDrone.
+This node publishes and subsribes (when max. of them are used) the following topics:
+        PUBLICATIONS            SUBSCRIPTIONS
+        /rpyz_errors            /pid_tuning_altitude
+        /edrone/pwm             /pid_tuning_pitch
+                                /pid_tuning_roll
+                                /edrone/imu/data
+                                /edrone/drone_command
+                                /pid_tuning_yaw
+this script have some changes over previous script
+-> angle for edrone is set to -20 to 20 degrees
+-> tuning parameteres are changed
+-> some code causing extra-overhead is removed
+
+
+
 
 
 
