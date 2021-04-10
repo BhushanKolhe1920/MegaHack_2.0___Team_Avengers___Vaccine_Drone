@@ -1,9 +1,22 @@
 # MegaHack_2.0___Team_Avengers___Vaccine_Drone
 This repository is created for collection of coding files which our team is going to make in Megahack2.0 
 
+
+# About team & project :
+
+<img src ="">
+
+
 Team Number : 32
 Team Name : Avengers
 Hackathon Name : MegaHack 2.0   St.John College Of Engineering & Management.
+
+
+Basic idea :
+
+<img src ="https://pin.it/3aapiBz">
+
+
 
 ### Project/Idea Name : Vaccine Drone  -- Optimized Distribuition of Covid Vaccines to Rural Areas using Drones.
 
@@ -33,37 +46,11 @@ This node publishes and subsribes (when max. of them are used) the following top
 Script summary : 
 -> angle for edrone is set to -20 to 20 degrees
 -> tuning parameteres are changed
--> some code causing extra-overhead is removed
+-> some code causing extra-overhead is remove
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-## Team memebers:
+## Team members:
 
 - Bhushan Bhagwat Kolhe
 - Harshal Rajesh Rathod
